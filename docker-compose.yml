@@ -6,7 +6,7 @@ services:
     #build: .
     container_name: rss-service
     environment:
-      # REPLACE BELOW WITH PREREQUISITE VARIABLES 
+      # REPLACE BELOW WITH PREREQUISITE VARIABLES
       TOKEN: XXXXX
       FEED_ROOM_ID: XXXXX
       RSS_FEED_URL: XXXXX
